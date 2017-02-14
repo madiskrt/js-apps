@@ -1,1 +1,1 @@
-# js-apps
+# Programming JavaScript Applications - Eric Elliott
